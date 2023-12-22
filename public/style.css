@@ -1,0 +1,12 @@
+.through{
+  text-decoration: line-through;
+}
+
+#favDialog{
+  background-clip:padding-box;
+  background-color:#FFFFFF;
+  border:1px solid #a9b7c2;
+  border-radius:4px 4px 4px 4px;
+  box-shadow:0 0 20px rgba(0,0,0,0.2);
+  outline:medium none;
+}
